@@ -6,7 +6,7 @@ A music player in the latest neumorphic design
 
 ## Preview Samples
 
-![github-small](https://github.com/kevintonb/neumorph_music_player/blob/master/assets/images/Flutter%20Music%20Player%20Thumbnail.jpg)
+![github-small](https://github.com/ProtorixDev/images/blob/master/neu.png)
 
 
 
